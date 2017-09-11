@@ -16,6 +16,9 @@ public class Estudante {
         this.ra = ra;
         this.nome = nome;
         this.curso = curso;
+	this.caodsorwer= coorasd;
+
+
     }
 
     public String getRa() {
